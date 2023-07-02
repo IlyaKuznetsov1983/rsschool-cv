@@ -18,9 +18,9 @@ Vitebsk
 
 +37533 6370303 my-phone-nr
 
-[(https://www.linkedin.com/in/ilya-kuznetsov1983/)]
+https://www.linkedin.com/in/ilya-kuznetsov1983/
 
-[(https://github.com/IlyaKuznetsov1983)]
+https://github.com/IlyaKuznetsov1983
 
 email:  6370303@mail.ru
 
@@ -29,7 +29,7 @@ email:  6370303@mail.ru
 
 ## About Me
 - - - - - - - - - - - - - - -     
-***I got interested in programming in 2021. I am engaged in a business not related to information technology. I am fond of game development and development of websites and applications. I strive to improve my professional skills for the next stage of my development.***
+***I got interested in programming in 2021. I am engaged in freelancing: video editing, sound design, smm. I am fond of game development, development of websites and applications. I strive to improve my professional skills for the next stage of my development.***
 
 ## Skills
 - - - - - - - - - - - - - - -    
@@ -59,7 +59,7 @@ email:  6370303@mail.ru
 - - - - - - - - - - - - - - -     
 Kata
 6 kyu
-Detect Pangram
+Detect Pangram 
 JavaScript: 
 ``` Javascript 
 
@@ -84,8 +84,8 @@ function isPangram(string){
 
 ## Education
 - - - - - - - - - - - - - - -      
-Belarusian State Academy of Arts 
-*Film and television directing (sound engineering) 2011
+* Belarusian State Academy of Arts:
+Film and television directing (sound engineering) 2011
 
 ### *Courses*: 
 
@@ -102,8 +102,8 @@ Sound Designer 2021
 
 ## Languages
 - - - - - - - - - - - - - - -     
-* Russian - Native speaker
-* English - A2 (B1 in process…)
+* Russian - C2
+* English - B1
 * Belorussian - B2
 * Ukrainian - B1
 * French - A2
