@@ -18,9 +18,9 @@ Vitebsk
 
 +37533 6370303 my-phone-nr
 
-(https://www.linkedin.com/in/ilya-kuznetsov1983/)
+[Linkedin](https://www.linkedin.com/in/ilya-kuznetsov1983/)
 
-(https://github.com/IlyaKuznetsov1983)
+[Github](https://github.com/IlyaKuznetsov1983)
 
 email:  6370303@mail.ru
 
