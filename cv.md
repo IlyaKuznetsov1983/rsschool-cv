@@ -18,9 +18,9 @@ Vitebsk
 
 +37533 6370303 my-phone-nr
 
-(https://www.linkedin.com/in/ilya-kuznetsov1983/)
+[(https://www.linkedin.com/in/ilya-kuznetsov1983/)]
 
-(https://github.com/IlyaKuznetsov1983)
+[(https://github.com/IlyaKuznetsov1983)]
 
 email:  6370303@mail.ru
 
@@ -57,6 +57,10 @@ email:  6370303@mail.ru
 
 ## Code Examples
 - - - - - - - - - - - - - - -     
+Kata
+6 kyu
+Detect Pangram
+JavaScript: 
 ``` Javascript 
 
 function isPangram(string){
@@ -81,8 +85,7 @@ function isPangram(string){
 ## Education
 - - - - - - - - - - - - - - -      
 Belarusian State Academy of Arts 
-* Film and television directing,
-Film and television sound engineering 2011
+*Film and television directing (sound engineering) 2011
 
 ### *Courses*: 
 
