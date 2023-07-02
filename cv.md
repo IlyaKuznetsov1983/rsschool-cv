@@ -18,9 +18,9 @@ Vitebsk
 
 +37533 6370303 my-phone-nr
 
-https://www.linkedin.com/in/ilya-kuznetsov1983/
+(https://www.linkedin.com/in/ilya-kuznetsov1983/)
 
-https://github.com/IlyaKuznetsov1983
+(https://github.com/IlyaKuznetsov1983)
 
 email:  6370303@mail.ru
 
@@ -53,6 +53,9 @@ email:  6370303@mail.ru
 * Adobe Premiere Pro
 * Vegas Pro
 * InShot
+* Cubase
+* Google Adds
+* Yandex Direct
 
 
 ## Code Examples
