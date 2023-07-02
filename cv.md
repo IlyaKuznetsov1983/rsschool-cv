@@ -11,11 +11,11 @@
 
 Gagarina street 137'b'                email@6370303.mail.ru
 
-Vitebsk                             [link][https://www.linkedin.com/in/ilya-kuznetsov1983/]
+Vitebsk                             (https://www.linkedin.com/in/ilya-kuznetsov1983/)
 
 Belarus                              +37533 6370303 my-phone-nr
 
-[][https://github.com/IlyaKuznetsov1983]
+(https://github.com/IlyaKuznetsov1983)
 
 - - - - - - - - - - - - - - -      - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
