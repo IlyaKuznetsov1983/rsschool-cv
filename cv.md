@@ -44,7 +44,7 @@ email:  6370303@mail.ru
 * React 
 * Redux
 * NodeJS
-* AJAX 
+* Ajax
 * Typescript
 * Trello
 * React Native
@@ -54,7 +54,7 @@ email:  6370303@mail.ru
 * Vegas Pro
 * InShot
 * Cubase
-* Google Adds
+* Google Ads
 * Yandex Direct
 
 
