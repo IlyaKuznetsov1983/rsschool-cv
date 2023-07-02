@@ -27,25 +27,25 @@ I got interested in programming in 2021. I am engaged in a business not related 
 ## Skills
 - - - - - - - - - - - - - - -      - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-*HTML
-*CSS 
-*JavaScript 
-*Git/GitHub
-*Bootstrap
-*SASS/SCSS
-*BEM
-*React 
-*Redux
-*NodeJS
-*AJAX 
-*Typescript
-*Trello
-*React Native
-*Unreal Engine 
-*Wwise
-*Adobe Premiere Pro
-*Vegas Pro
-*InShot
+* HTML
+* CSS 
+* JavaScript 
+* Git/GitHub
+* Bootstrap
+* SASS/SCSS
+* BEM
+* React 
+* Redux
+* NodeJS
+* AJAX 
+* Typescript
+* Trello
+* React Native
+* Unreal Engine 
+* Wwise
+* Adobe Premiere Pro
+* Vegas Pro
+* InShot
 
 
 ## About Me
@@ -72,9 +72,9 @@ Unreal Engine — полное руководство по разработке 
 
 ## Languages
 - - - - - - - - - - - - - - -      - - - - - - - - - - - - - - - - - - - - - - - - - - 
-*Russian - Native speaker.
-*English - A2 (B1 in process…)
-*Belorussian - B2
-*Ukrainian - B1
-*French - A2
-*Estonian - A1
+* Russian - Native speaker.
+* English - A2 (B1 in process…)
+* Belorussian - B2
+* Ukrainian - B1
+* French - A2
+* Estonian - A1
