@@ -11,11 +11,11 @@
 
 Gagarina street 137'b'                email@6370303.mail.ru
 
-Vitebsk                             https://www.linkedin.com/in/ilya-kuznetsov1983/
+Vitebsk                             [https://www.linkedin.com/in/ilya-kuznetsov1983/]
 
 Belarus                              +37533 6370303 my-phone-nr
 
-*https://github.com/IlyaKuznetsov1983*f
+[https://github.com/IlyaKuznetsov1983]
 
 - - - - - - - - - - - - - - -      - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -55,20 +55,22 @@ I got interested in programming in 2021. I am engaged in a business not related 
 
 ## Education
 - - - - - - - - - - - - - - -      - - - - - - - - - - - - - - - - - - - - - - - - - - 
-Belarusian State Academy of Arts, Minsk
-Film and television directing,
+Belarusian State Academy of Arts, 
+Minsk Film and television directing,
 Film and television sound engineering 2011
 
-*Courses*: 
-IT Academy Step Georgia
-Student, Front - End Development 2021-2022
+### *Courses*: 
+
+* IT Academy Step Belarus
+Student, Front - End Development 2021-2022 *
 
 
-Sound Design InstituteSound Design Institute
-Sound Designer 2021
+* Sound Design InstituteSound Design Institute
+Sound Designer 2021 *
 
-Unreal Engine — полное руководство по разработке на С++
-* Yuri Popov
+* Udemy:Unreal Engine — полное руководство по разработке на С++
+
+#### * _Yuri Popov_
 
 ## Languages
 - - - - - - - - - - - - - - -      - - - - - - - - - - - - - - - - - - - - - - - - - - 
