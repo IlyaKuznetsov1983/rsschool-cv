@@ -1,6 +1,7 @@
 # Ilya Kuznetsov
 
 ----------------
+### Front End Developer
 **************************************************************************************
 
 
@@ -9,13 +10,19 @@
 
 - - - - - - - - - - - - - - -      - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-Gagarina street 137'b'                email@6370303.mail.ru
+Gagarina street 137'b'       
 
-Vitebsk                             (https://www.linkedin.com/in/ilya-kuznetsov1983/)
+Belarus
 
-Belarus                              +37533 6370303 my-phone-nr
+Vitebsk     
+
++37533 6370303 my-phone-nr
+
+(https://www.linkedin.com/in/ilya-kuznetsov1983/)
 
 (https://github.com/IlyaKuznetsov1983)
+
+email@6370303.mail.ru
 
 - - - - - - - - - - - - - - -      - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -56,7 +63,7 @@ Belarus                              +37533 6370303 my-phone-nr
 ## Education
 - - - - - - - - - - - - - - -      - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Belarusian State Academy of Arts 
-* Minsk Film and television directing,
+* Film and television directing,
 Film and television sound engineering 2011
 
 ### *Courses*: 
